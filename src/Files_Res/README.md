@@ -1,0 +1,3 @@
+- Este arquivo só existe para o diretório não ficar vazio.
+- Durante as operações de criptografia, os arquivos criptografados ou descriptografados são criados neste diretório.
+- Após os arquivos criados serem compactados e baixados pelo usuário, eles são excluídos deste diretório.
