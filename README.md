@@ -4,4 +4,4 @@ Sistema para criptografar arquivos utilizando o algoritmo __RSA__, proveniente d
 
 <br/>
 
-- O site pode ser conferido no link a seguir: **http://projectkrypto.c1.biz/**
+- O site pode ser conferido no link a seguir: **http://projectkrypto.co.nf/**
